@@ -2,13 +2,10 @@
 # Galerie de photos responsive - Minette🐾
 
 Ce projet est une **galerie responsive** réalisée en HTML & CSS, affichant de jolies photos de mon propres chat 😸.  
-Le layout s’adapte à tous les écrans (mobile, tablette, PC) grâce à **CSS Grid**, avec un petit effet zoom en `hover`.
 
 ## 🐱 Aperçu
+![aperçu gallery](https://github.com/user-attachments/assets/c3cc5056-ca23-42c0-82cc-836b2c2af255)
 
-| Mode Desktop | Mode Mobile |
-|--------------|-------------|
-| Affichage 3 colonnes | Affichage 2 colonnes |
 
 ## 🧱 Technologies utilisées
 
@@ -18,11 +15,7 @@ Le layout s’adapte à tous les écrans (mobile, tablette, PC) grâce à **CSS 
 ## 🎨 Fonctionnalités
 
 - Galerie de 8 photos 
-- Zoom doux au survol (`hover: scale`)
 - `figcaption` personnalisé sous chaque image
-- Adaptation automatique à la taille de l’écran
-
-## 🗂️ Structure du projet
 
 
 ## 👀 Démo en ligne
