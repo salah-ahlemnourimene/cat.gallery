@@ -18,9 +18,9 @@ Ce projet est une **galerie responsive** réalisée en HTML & CSS, affichant de 
 - `figcaption` personnalisé sous chaque image
 
 
-## 👀 Démo en ligne
+## 👀 Démo 
 
-🔗 [aperçu](http://127.0.0.1:5500/exo3.cats/index.html)
+🔗 https://salah-ahlemnourimene.github.io/cat.gallery/
 
 
 ## ✍️ Auteur
